@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : 0rt
 description: > # this means to ignore newlines until "Language & timezone"
-  Carry inspiration and Stimulate Wisdom
+  All the knowledge we learned lead us to a more misery death.
 
 
 ## => Language and Timezone
@@ -38,7 +38,7 @@ author:
   name      : 0rt Huang
   url       :
   avatar    : # path or url of avatar image
-  bio       : Stay hungery,Stay foolish
+  bio       : yet we still thirsty for knowledge
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
