@@ -7,8 +7,8 @@ mermaid: true
 chart: true
 mathjax_autoNumber: true
 lightbox: true
-tags: Apple
-key: apple_id
+tags: fork
+key: fork
 mode: immersive
 header:
   theme: dark
