@@ -8,7 +8,7 @@
 *.swo
 *.log
 *.log.*
-
+/юондуб/
 /.vscode/
 
 node_modules/
